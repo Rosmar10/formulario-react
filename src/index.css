@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.form{
+  display: flex;
+}
+
+.header{
+  background-color: black;
+  color: aliceblue;
+}
+.button{
+  display: flex;
+  margin-top: 1%;
+}
